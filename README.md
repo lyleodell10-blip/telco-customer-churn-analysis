@@ -122,6 +122,23 @@ Customers who churned paid higher monthly charges and had significantly shorter 
 
 Senior citizens exhibited higher churn rates than non-senior customers, indicating a potential need for targeted retention programs and customer support initiatives.
 
+## Dashboard Screenshots
+
+### Executive Dashboard
+![Dashboard](dashboard_overview.png)
+
+### Contract Churn Rate
+![Contract Churn](contract_churn_rate.png)
+
+### Internet Service Churn Rate
+![Internet Service Churn](internet_service_churn_rate.png)
+
+### Payment Method Churn Rate
+![Payment Method Churn](payment_method_churn_rate.png)
+
+### Average Tenure by Churn Status
+![Average Tenure](average_tenure_by_churn.png)
+
 ---
 
 ## Business Recommendations
